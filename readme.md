@@ -1,6 +1,6 @@
-#WebRTC-video-chat-app demo
+# WebRTC-video-chat-app demo
 
-##libraries used
+## libraries used
 * *socket.io*
 * *peer.js*
     * create connection between different users using WebRTC protokol
